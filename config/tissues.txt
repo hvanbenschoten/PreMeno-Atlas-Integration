@@ -1,0 +1,23 @@
+# One tissue/sample stem per line (must match <stem>.h5ad under processed_h5ad).
+# Lines starting with # are ignored.
+
+adipose
+breast
+eye
+fallopiantube_1
+fallopiantube_2
+heart
+intestine
+kidney
+liver
+lung
+ovary_1
+ovary_2
+ovary_3
+ovary_d1
+ovary_d2
+ovary_d3
+pancreas
+skin
+uterus_1
+uterus_2

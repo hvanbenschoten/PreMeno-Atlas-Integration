@@ -1,0 +1,11 @@
+﻿tissue_id,cell_type,h_cell_type
+adipose,B cell,B cell
+adipose,T cell,T cell
+adipose,adipocyte,Adipocyte
+adipose,dendritic cell,Dendritic cell
+adipose,endothelial cell,Endothelial cell
+adipose,endothelial cell of lymphatic vessel,Lymphatic endothelial cell
+adipose,immature NK T cell,T cell
+adipose,macrophage,Macrophage
+adipose,mast cell,Mast cell
+adipose,mesothelial cell,Mesothelial cell
